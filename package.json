@@ -1,0 +1,22 @@
+{
+  "name": "fresh-branches-nodejs",
+  "version": "1.0.0",
+  "description": "this is my project description",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "whereami": "ls -la"
+  },
+  "keywords": [
+    "js",
+    "node"
+  ],
+  "author": "KMG",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
